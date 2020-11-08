@@ -1,0 +1,14 @@
+{
+  "name": "npm-modules",
+  "version": "1.0.0",
+  "description": "My First Npm Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "jeevan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
